@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Conversor</string>
+    <string name="tvTituloNombre">CONVERSOR DE DIVISAS</string>
+    <string name="tvValorInicial">0.00</string>
+    <string name="imgCDescription">Indica hacia que valor se convierte</string>
+    <string name="contDescBackG">Vista de Edificios</string>
+    <string name="buttondescription">Exe</string>
+    <string name="Arrow">Dos flechas azules</string>
+    <string name="str_moneda">moneda</string>
+    <string name="str_actualizar">Tipos de cambio actualizados</string>
+    <string name="str_Guardar">Tipos de cambio guardados</string>
+    <string name="str_cancelar">No se han guardado los cambios</string>
+    <string name="str_tit_actualizar">Actualizando Tasas de cambio</string>
+    <string name="str_act2_tit_barra">Modificar tasas</string>
+    <string name="str_act1_tit_barra">.</string>
+    <string name="str_avisoCero">El valor debe ser mayor a 0</string>
+</resources>

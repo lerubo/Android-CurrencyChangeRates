@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="EstiloBarra" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:label">@string/str_act2_tit_barra</item>
+        <item name="colorControlNormal">#FFFFFF</item>
+        <item name="colorAccent">#FFFFFF</item>
+        <item name="colorControlHighlight">#FFFFFF</item>
+
+    </style>
+
+</resources>

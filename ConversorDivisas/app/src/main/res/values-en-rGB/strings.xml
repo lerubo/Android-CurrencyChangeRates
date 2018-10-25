@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Currency converter</string>
+    <string name="tvTituloNombre">CURRENCY CONVERTER</string>
+    <string name="tvValorInicial">0.00</string>
+    <string name="imgCDescription">It point out the currency which it will convert it</string>
+    <string name="contDescBackG">Building view</string>
+    <string name="Arrow">Two blue arrows</string>
+    <string name="str_moneda">currency</string>
+    <string name="buttondescription">Exe</string>
+    <string name="str_actualizar">Rates updated</string>
+    <string name="str_Guardar">Rates saved</string>
+    <string name="str_cancelar">Changes were not saved</string>
+    <string name="str_tit_actualizar">Updating exchange rates</string>
+    <string name="str_act2_tit_barra">Modify rates</string>
+    <string name="str_act1_tit_barra">.</string>
+    <string name="str_avisoCero">The rate needs to be bigger than 0</string>
+</resources>

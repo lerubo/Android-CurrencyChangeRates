@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="valores">
+        <item>Euros</item>
+        <item>Sterline Pounds</item>
+        <item>American Dollars</item>
+        <item>Indian Rupees</item>
+        <item>Korean Won</item>
+        <item>Chinese Yuan</item>
+        <item>Brasilian Real</item>
+        <item>Icelandic Korona</item>
+        <item >Russian Rubles</item>
+        <item>Japanese Yen</item>
+        <item>Mexican Peso</item>
+    </string-array>
+    <string-array name="siglas">
+        <item>EUR</item>
+        <item>GPB</item>
+        <item>USD</item>
+        <item>INR</item>
+        <item>KRW</item>
+        <item>CNY</item>
+        <item>MAD</item>
+        <item>ISK</item>
+        <item>RUB</item>
+        <item>JPY</item>
+        <item>MXN</item>
+    </string-array>
+    <string-array name="tasas">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+
+
+
+</resources>

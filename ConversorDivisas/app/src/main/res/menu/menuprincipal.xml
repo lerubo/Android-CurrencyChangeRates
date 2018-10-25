@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/idActualizar"
+        android:title="Editar"
+        android:icon="@android:drawable/ic_popup_sync"
+        app:showAsAction="ifRoom"
+        ></item>
+    <item
+        android:id="@+id/idEditar"
+        android:title="Editar"
+        android:icon="@android:drawable/ic_menu_edit"
+        app:showAsAction="ifRoom"
+        ></item>
+
+</menu>
